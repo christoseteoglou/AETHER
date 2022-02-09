@@ -1,10 +1,8 @@
 import './App.css';
-import Main from './components/main/Main';
-import Xur from './components/xur/Xur';
-import Character from './components/Character/Character';
+import Weapons from './components/weapons/Weapons';
 
 function App() {
-	return <Character />;
+	return <Weapons />;
 }
 
 export default App;
