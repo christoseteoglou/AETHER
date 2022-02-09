@@ -9,6 +9,8 @@
 	box-sizing: border-box;
 }
 
-html {
+body {
 	font-family: 'Futura_20Medium_20BT.ttf';
+	background-color: black;
+	color: antiquewhite;
 }
